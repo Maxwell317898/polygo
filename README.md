@@ -12,3 +12,4 @@ to see look at the branch name these are what the currant version it is for
 ## note!
 that i haven't found a way to use these scipts in cloud games
 as when you go in the editor it uses diffeant cloud vers 
+## i do not intend for this ("software or code") to be used in a bad maner or to preform activatys that are against scratch's Tos
