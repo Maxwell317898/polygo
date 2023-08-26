@@ -1,5 +1,6 @@
 # polygo
 polygo is a project to find errors in scratchers code (ie. minecraft-ish MMO by griffpatch)
+## this branch is for Interminable Rooms U Section Remake by AmongNumberblocksFan
 ## how to use
 goto code the green button then click it you will see a button that says 
 download zip. do that! you are almost done open the zip it will make a 
@@ -12,4 +13,4 @@ to see look at the branch name these are what the currant version it is for
 ## note!
 that i haven't found a way to use these scipts in cloud games
 as when you go in the editor it uses diffeant cloud vers 
-## i do not intend for this ("software or code") to be used in a bad maner or to preform activatys that are against scratch's Tos
+## i do not intend for this ("software or code") to be used in a bad manner or to preform activatys that are against scratch's Tos
